@@ -1,7 +1,7 @@
 # Raport o postępach w pentestingu  
-**Kevin, 17 lat**  
+imię igor blask
 
-Jestem Kevin, mam 17 lat i od prawie roku intensywnie rozwijam się w obszarze cyberbezpieczeństwa, ze szczególnym naciskiem na pentesting (testy penetracyjne). Choć dopiero zaczynam swoją ścieżkę zawodową, traktuję naukę niezwykle poważnie, jestem zdyscyplinowany i szybko przyswajam nowe umiejętności.  
+Jestem  i od prawie roku intensywnie rozwijam się w obszarze cyberbezpieczeństwa, ze szczególnym naciskiem na pentesting (testy penetracyjne). Choć dopiero zaczynam swoją ścieżkę zawodową, traktuję naukę niezwykle poważnie, jestem zdyscyplinowany i szybko przyswajam nowe umiejętności.  
 
 ## 🔍 Dotychczasowe osiągnięcia i umiejętności  
 1. **Rekonesans sieciowy**  
@@ -45,7 +45,7 @@ Chciałbym zdobyć **praktyki w małej firmie**, gdzie mógłbym realnie uczestn
 
 ---
 
-**Kevin**  
-17 lat, przyszły pentester w cyberbezpieczeństwie
-kontakt: bibip0662@gmail.com 
+**Igor**
+ przyszły pentester w cyberbezpieczeństwie
+kontakt: pikola93846@gmail.com
 gihub:https://github.com/animus1230
